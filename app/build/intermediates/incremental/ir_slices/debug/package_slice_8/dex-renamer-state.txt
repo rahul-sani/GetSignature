@@ -1,0 +1,4 @@
+#Sun Aug 04 11:44:48 IST 2019
+base.0=/home/r4hu1/AndroidStudioProjects/GetSignature/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex
